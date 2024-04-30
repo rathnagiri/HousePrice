@@ -13,10 +13,11 @@ The company wants to know:
 The Consulation Analyst should build a model to predict the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 ##Datasets used
-House dataset: [train.csv]
-Data Dictionary: [data_description[1].txt]
-Solution file: python jupyter file: [House_Price_Rathnagiri.ipynb]
-Subjective Question Answers PDF: [Subjective Questions_Housing_Assignment.pdf]
+
+- House dataset: [train.csv]
+- Data Dictionary: [data_description[1].txt]
+- Solution file: python jupyter file: [House_Price_Rathnagiri.ipynb]
+- Subjective Question Answers PDF: [Subjective Questions_Housing_Assignment.pdf]
 
 ## Analysis
 Following were the analysis done:
